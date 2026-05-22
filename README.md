@@ -1,0 +1,1 @@
+This is a simple (or "Aplos", in Greek) implementation of Pong written in C++ using Raylib, following an OOP-style of programming. Make sure that all files are in the same folder when compiling, or else the sound effects will not work and exceptions will be thrown.
